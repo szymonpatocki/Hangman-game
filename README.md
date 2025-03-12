@@ -1,8 +1,5 @@
 # Hangman Game in Python
 
-## Description
-This is a simple implementation of the classic Hangman game in Python. The player must guess a hidden word by suggesting letters within a limited number of attempts. The game features multiple word categories to choose from, making it more engaging and educational.
-
 ## Features
 - Random word selection from predefined categories:
   - European countries
